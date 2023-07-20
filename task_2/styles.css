@@ -6,6 +6,14 @@ header{
     text-align: center;
 }
 
+a:visited { 
+    color: white; 
+   } 
+
+a{
+    color:white; 
+}
+
 footer {
     background-color: blue;
     position: center;
