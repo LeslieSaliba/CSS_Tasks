@@ -1,25 +1,33 @@
-header{
+header {
     background-color: blue;
-    position: center;
     color: white;
-    align-content: center;
     text-align: center;
+    padding: 10px;
 }
 
-a:visited { 
-    color: white; 
-   } 
+ul {
+    list-style-type: none;
+}
 
-a{
-    color:white; 
+li {
+    display: inline;
+    margin-right: 15 px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
 }
 
 footer {
     background-color: blue;
-    position: center;
-    color: white;
-    align-content: center;
     text-align: center;
+    color: white;
+    padding: 15 px;
     font-weight: 50;
     font-size: smaller;
 }
